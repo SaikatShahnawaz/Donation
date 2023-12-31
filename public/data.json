@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.postimg.cc/mgPv8F6Q/Clothing.png",
+      "title": "Warm Winter Clothes",
+      "category": "clothing",
+      "category_bg": "#B2FFB2",
+      "card_bg": "#80FF80",
+      "text_color": "#4DFF4D",
+      "button_bg": "#4DFF4D",
+      "description": "Donate warm clothing to help those in need during the winter.",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "picture": "https://i.postimg.cc/gjRwVJbd/Health.png",
+      "title": "Medical Supplies",
+      "category": "health",
+      "category_bg": "#FFEBEB",
+      "card_bg": "#FFD9D9",
+      "text_color": "#FF0000",
+      "button_bg": "#FF0000",
+      "description": "Contribute essential medical supplies for better healthcare access.",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "picture": "https://i.postimg.cc/VsjLW2bY/Food.png",
+      "title": "Emergency Food Pack",
+      "category": "food",
+      "category_bg": "#FFA6A6",
+      "card_bg": "#FF6666",
+      "text_color": "#B30000",
+      "button_bg": "#B30000",
+      "description": "Provide nutritious food for individuals facing food insecurity.",
+      "price": 15
+    },
+    {
+      "id": 4,
+      "picture": "https://i.postimg.cc/hvgnYP7K/Education.png",
+      "title": "Support education",
+      "category": "education",
+      "category_bg": "#FFEDCC",
+      "card_bg": "#FFDEA4",
+      "text_color": "#FF8C00",
+      "button_bg": "#FF8C00",
+      "description": "Support education by donating books, stationery, and educational materials.",
+      "price": 25
+    },
+    {
+      "id": 5,
+      "picture": "https://i.postimg.cc/gjRwVJbd/Health.png",
+      "title": "Wellness Kits",
+      "category": "health",
+      "category_bg": "#FFEBEB",
+      "card_bg": "#FFD9D9",
+      "text_color": "#FF0000",
+      "button_bg": "#FF0000",
+      "description": "Assemble wellness kits with essential items for overall health.",
+      "price": 35
+    },
+    {
+        "id": 6,
+        "picture": "https://i.postimg.cc/mgPv8F6Q/Clothing.png",
+        "title": "Kids' Clothing Drive",
+        "category": "clothing",
+        "category_bg": "#B2FFB2",
+        "card_bg": "#80FF80",
+        "text_color": "#4DFF4D",
+        "button_bg": "#4DFF4D",
+        "description": "Help children stay warm with donations of clothing for all seasons.",
+        "price": 18
+      },
+    
+    {
+      "id": 7,
+      "picture": "https://i.postimg.cc/hvgnYP7K/Education.png",
+      "title": "Laptops for Learning",
+      "category": "education",
+      "category_bg": "#FFEDCC",
+      "card_bg": "#FFDEA4",
+      "text_color": "#FF8C00",
+      "button_bg": "#FF8C00",
+      "description": "Donate laptops to enhance online learning opportunities for students.",
+      "price": 50
+    },
+    {
+        "id": 8,
+        "picture": "https://i.postimg.cc/VsjLW2bY/Food.png",
+        "title": "Community Kitchen Supplies",
+        "category": "food",
+        "category_bg": "#FFA6A6",
+        "card_bg": "#FF6666",
+        "text_color": "#B30000",
+        "button_bg": "#B30000",
+        "description": "Support community kitchens with supplies for preparing nutritious meals.",
+        "price": 20
+      },
+    {
+      "id": 9,
+      "picture": "https://i.postimg.cc/mgPv8F6Q/Clothing.png",
+      "title": "Professional Attire Drive",
+      "category": "clothing",
+      "category_bg": "#B2FFB2",
+      "card_bg": "#80FF80",
+      "text_color": "#4DFF4D",
+      "button_bg": "#4DFF4D",
+      "description": "Contribute to professional attire for job seekers entering the workforce.",
+      "price": 22
+    },
+    {
+      "id": 10,
+      "picture": "https://i.postimg.cc/gjRwVJbd/Health.png",
+      "title": "Mental Health Support",
+      "category": "health",
+      "category_bg": "#FFEBEB",
+      "card_bg": "#FFD9D9",
+      "text_color": "#FF0000",
+      "button_bg": "#FF0000",
+      "description": "Support mental health initiatives with resources and counseling services.",
+      "price": 40
+    },
+    {
+      "id": 11,
+      "picture": "https://i.postimg.cc/VsjLW2bY/Food.png",
+      "title": "Fresh Produce Donation",
+      "category": "food",
+      "category_bg": "#FFA6A6",
+      "card_bg": "#FF6666",
+      "text_color": "#B30000",
+      "button_bg": "#B30000",
+      "description": "Donate fresh fruits and vegetables to promote a healthy diet for all.",
+      "price": 18
+    },
+    {
+      "id": 12,
+      "picture": "https://i.postimg.cc/hvgnYP7K/Education.png",
+      "title": "School Supplies Drive",
+      "category": "education",
+      "category_bg": "#FFEDCC",
+      "card_bg": "#FFDEA4",
+      "text_color": "#FF8C00",
+      "button_bg": "#FF8C00",
+      "description": "Ensure students have the necessary school supplies for a successful academic year.",
+      "price": 30
+    }
+  ]

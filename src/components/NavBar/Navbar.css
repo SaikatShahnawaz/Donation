@@ -1,0 +1,6 @@
+nav  li a.active{
+    font-size: large;
+    text-decoration: underline;
+    font-weight: bolder;
+    background-color: rgb(219, 48, 48) !important;
+}
